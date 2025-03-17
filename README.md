@@ -1,16 +1,4 @@
-# Starter base
+# Windtabs (Template)
+Just a template for expo with tabs, shadcn, & nativewind.
 
-A starting point to help you set up your project quickly and use the common components provided by `react-native-reusables`. The idea is to make it easier for you to get started.
-
-## Features
-
-- NativeWind v4
-- Dark and light mode
-  - Android Navigation Bar matches mode
-  - Persistent mode
-- Common components
-  - ThemeToggle, Avatar, Button, Card, Progress, Text, Tooltip
-
-<img src="https://github.com/mrzachnugent/react-native-reusables/assets/63797719/42c94108-38a7-498b-9c70-18640420f1bc"
-     alt="starter-base-template"
-     style="width:270px;" />
+<img width="400" alt="Screenshot 2025-03-17 at 16 47 24" src="https://github.com/user-attachments/assets/1efc941d-164b-4226-8006-393f67d83344" />
